@@ -29,9 +29,6 @@ Software Engineer with experience across multiple platforms and technologies.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iwata-shimpe&show_icons=true&theme=tokyonight&locale=ja" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iwata-shimpe&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ## Contribution Graph
 
