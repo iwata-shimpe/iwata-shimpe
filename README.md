@@ -26,17 +26,11 @@ Software Engineer with experience across multiple platforms and technologies.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iwata-shimpe&show_icons=true&theme=tokyonight&locale=ja" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iwata-shimpe&show_icons=true&theme=tokyonight&locale=ja" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwata-shimpe&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iwata-shimpe&theme=nord&column=7&no-frame=true" alt="Trophies" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iwata-shimpe&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## Contribution Graph
