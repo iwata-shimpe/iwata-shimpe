@@ -14,7 +14,7 @@ jobs:
       - name: Generate Snake Game
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: iwata-shimpei
+          github_user_name: iwata-shimpe
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
